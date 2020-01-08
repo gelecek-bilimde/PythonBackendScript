@@ -3,7 +3,7 @@ import requests
 import json
 
 config = {
-    ...
+
 }
 
 ####FETCH FROM FIREBASE
